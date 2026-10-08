@@ -1,21 +1,17 @@
-/* Notebook scheme: cream paper by day, cocoa leather by night */
 :root {
-  --color-neutral: 253, 250, 240;
+  --color-neutral: 244, 237, 222;           
+  --color-neutral-50: 240, 233, 218;        
+  --color-neutral-100: 232, 225, 209;       
+  --color-neutral-200: 190, 184, 173;       
+  --color-neutral-300: 164, 158, 148;       
+  --color-neutral-400: 130, 124, 116;       
+  --color-neutral-500: 110, 104, 96;
+  --color-neutral-600: 46, 46, 56;          
+  --color-neutral-700: 28, 28, 36;          
+  --color-neutral-800: 18, 18, 24;          
+  --color-neutral-900: 12, 12, 17;
+  --color-neutral-950: 7, 7, 11;
 
-  /* Paper / Ink (dark bg = 800, dark cards = 700) */
-  --color-neutral-50: 251, 248, 241;
-  --color-neutral-100: 245, 240, 230;
-  --color-neutral-200: 232, 225, 212;
-  --color-neutral-300: 212, 203, 188;
-  --color-neutral-400: 168, 157, 143;
-  --color-neutral-500: 128, 117, 106;
-  --color-neutral-600: 98, 88, 80;
-  --color-neutral-700: 72, 63, 57;
-  --color-neutral-800: 45, 38, 34;
-  --color-neutral-900: 33, 28, 25;
-  --color-neutral-950: 22, 18, 16;
-
-  /* Kraft / Leather (dark mode links use 400) */
   --color-primary-50: 250, 245, 237;
   --color-primary-100: 243, 233, 218;
   --color-primary-200: 233, 217, 192;
@@ -28,7 +24,6 @@
   --color-primary-900: 68, 55, 40;
   --color-primary-950: 44, 35, 26;
 
-  /* Faded Ruled-Line Blue */
   --color-secondary-50: 244, 247, 249;
   --color-secondary-100: 230, 237, 242;
   --color-secondary-200: 208, 220, 229;
